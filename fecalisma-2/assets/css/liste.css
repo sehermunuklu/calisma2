@@ -1,0 +1,28 @@
+div h5 {
+  border: 1px solid black;
+  margin: 0;
+}
+
+h1 {
+  padding-right: 20px;
+  padding-top: 100px;
+}
+
+body {
+  text-align: center;
+}
+ul {
+  list-style: none;
+}
+
+p a {
+  text-decoration: none;
+}
+p {
+  color: grey;
+}
+ul {
+  list-style-type: none;
+  text-decoration-style: solid;
+  text-decoration: underline;
+}
